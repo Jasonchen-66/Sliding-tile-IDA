@@ -1,0 +1,3 @@
+# Sliding-tile-IDA
+Implement IDA* for solving the 3×3 Sliding-Tile puzzle.
+Run with 'python3 main.py'...
